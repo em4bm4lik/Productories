@@ -1,3 +1,7 @@
+# Description
+
+Productories is a console-based e-commerce platform featuring role-based access for admins and customers, with file-based persistence for all data.
+
 # Functionalities and Implementation:
 
 1. **Enhanced User Roles:**
